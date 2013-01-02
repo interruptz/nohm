@@ -1049,7 +1049,6 @@ loadArray: function (t) {
       });
     });
   },
-  */
   findInDescendingOrder: function(t) {
     var findUser = new UserFindMockup();
     t.expect(2);
